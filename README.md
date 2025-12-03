@@ -47,9 +47,10 @@ I used this application to practice building a **CI/CD pipeline** on AWS using C
 ├── appspec.yml                     # CodeDeploy deployment definition
 ├── settings.xml
 └── README.md
+
 ---
 
-##  4. ** CI/CD Pipeline Overview **
+## 4. ** CI/CD Pipeline Overview **
 
 GitHub Repo
    |
@@ -75,7 +76,7 @@ EC2 (Amazon Linux 2 with CodeDeploy Agent)
    - runs the Java web application on Tomcat
 ---
 
-##  5. **Key Configurations**
+## 5. **Key Configurations**
 
 ### buildspec.yml
 
